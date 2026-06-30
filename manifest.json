@@ -1,0 +1,15 @@
+{
+  "name": "5 Günlük Antrenman Programı",
+  "short_name": "Antrenman",
+  "description": "5 Günlük antrenman takip ve e1RM hesaplama uygulaması",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0a12",
+  "theme_color": "#0a0a12",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
